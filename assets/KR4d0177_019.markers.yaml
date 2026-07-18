@@ -265,6 +265,7 @@ markers:
       ', id: KR4d0177_krp_019-bkkkrnewl51}
   - {type: line-break, offset: 630, content: '', id: KR4d0177_WYG_019-3b07}
   - {type: punctuation, offset: 639, content: (, id: KR4d0177_krp_019-bkkpn1}
+  - {type: voice, offset: 639, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 642, content: /, id: KR4d0177_krp_019-bkkpn2}
   - {type: punctuation, offset: 645, content: ), id: KR4d0177_krp_019-bkkpn3}
   - {type: substitution, offset: 649, original: 頼, replacement: 賴, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17567}}
@@ -1328,4 +1329,4 @@ markers:
 
       ', id: KR4d0177_krp_019-bkkkrnewl269}
   back: []
-hash: sha256:e3271a7b40dbdda2a1556b76487f8f10c55d6798d7e573867895c126a331ece7
+hash: sha256:f2f7013a3c9a4b2f9d231e39988b149d833d9523fe5c1311e39ca84efe051925
